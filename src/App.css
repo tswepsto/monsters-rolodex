@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-weight: 200;
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1,
+h2 {
+  font-weight: 200;
 }
